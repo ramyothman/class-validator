@@ -8,13 +8,6 @@
     "name": "Umed Khudoiberdiev",
     "email": "pleerock.me@gmail.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/typestack/class-validator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/typestack/class-validator/issues"
-  },
   "tags": [
     "validator",
     "validation",
@@ -68,5 +61,5 @@
     "test": "gulp tests",
     "changelog": "gulp changelog"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@ramyothman" }
 }
